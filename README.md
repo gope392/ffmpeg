@@ -1,2 +1,2 @@
 # ffmpeg
-Script to compile ffmpeg on Ubuntu 22.04
+Bash Script to compile ffmpeg on Ubuntu 22.04
